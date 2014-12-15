@@ -9,15 +9,15 @@ class fonts::naver::nanumfont {
     [
 		'NanumBarunGothic',
 		'NanumBarunGothicBold',
-		'NanumBrush',
-		'NanumGothic',
-		'NanumGothicBold',
-		'NanumGothicExtraBold',
+		#'NanumBrush',
+		#'NanumGothic',
+		#'NanumGothicBold',
+		#'NanumGothicExtraBold',
 		'NanumGothicLight',
-		'NanumMyeongjo',
-		'NanumMyeongjoBold',
-		'NanumMyeongjoExtraBold',
-		'NanumPen',
+		#'NanumMyeongjo',
+		#'NanumMyeongjoBold',
+		#'NanumMyeongjoExtraBold',
+		#'NanumPen',
     ]:
   }
 }
